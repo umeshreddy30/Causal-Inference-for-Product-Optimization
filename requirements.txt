@@ -6,3 +6,5 @@ networkx
 matplotlib
 graphviz
 openpyxl
+streamlit
+plotly
