@@ -46,5 +46,3 @@ Unlike traditional A/B testing (which fails with observational data) or simple c
 | **Causal Estimate** | **$9.98** | Corrected using DoWhy |
 | **Ground Truth** | $10.00 | Validated via Data Generation Process |
 
----
-*Author: [Your Name]*
