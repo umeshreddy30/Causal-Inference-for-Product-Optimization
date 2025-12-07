@@ -47,4 +47,3 @@ Unlike traditional A/B testing (which fails with observational data) or simple c
 | **Ground Truth** | $10.00 | Validated via Data Generation Process |
 
 ---
-*Author: [Your Name]*
